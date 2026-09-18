@@ -1,4 +1,4 @@
-# Name:
+# Name: Mayowa Miller
 # Date:
 # Course: COMP 163
 # Project 1: Paycheck Calculator
